@@ -1,0 +1,5 @@
+notebook<7
+ipykernel
+requests
+jupyter_contrib_nbextensions
+
