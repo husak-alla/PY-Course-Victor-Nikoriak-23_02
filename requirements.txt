@@ -13,3 +13,6 @@ sympy
 dash
 dash-bootstrap-components>=1.6.0
 black
+duckdb
+fastapi
+pyarrow>=14.0.0
