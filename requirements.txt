@@ -16,3 +16,7 @@ black
 duckdb
 fastapi
 pyarrow>=14.0.0
+kagglehub
+geopandas
+dash-leaflet>=0.1.0
+dash-extensions>=1.0.0
