@@ -33,5 +33,5 @@ modules:
     slug: python-advanced
     title: "Module 3 — Python Advanced"
     path: module_3/lessons
-    lessons: [22]
+    lessons: [22, 23, 24, 25, 26, 27]
 
